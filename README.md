@@ -7,7 +7,7 @@ Vim colorscheme | A minimalistic gothic theme
 You can install gothic-cyberpunk via plug adding to your `.vimrc` or `init.vim`:
 
 ```
-Plug 'bobby-valenzuela/gothic-cyberpunk.vim'
+Plug 'QuantumZenoSix/gothic-cyberpunk.vim'
 ```
 
 Or manually copying:
