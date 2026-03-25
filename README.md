@@ -34,13 +34,6 @@ vim.opt.showmode = false
 -- Set color scheme
 vim.cmd.colorscheme 'gothic-cyberpunk'
 
--- Set airline theme settings
-vim.g.airline_theme = 'lucius'
-vim.g.airline_powerline_fonts = 1
-vim.g.airline_left_sep = ''
-vim.g.airline_left_alt_sep = ''
-vim.g.airline_right_sep = ''
-vim.g.airline_right_alt_sep = ''
 ```
 <br />
 
@@ -60,16 +53,9 @@ set noshowmode
 " Set color scheme
 colorscheme gothic-cyberpunk
 
-" Set airline theme settings
-let g:airline_theme='lucius'
-let g:airline_powerline_fonts=1
-let g:airline_left_sep=''
-let g:airline_left_alt_sep=''
-let g:airline_right_sep=''
-let g:airline_right_alt_sep=''
+
 ```
 
 ## Screenshots
-![cyberpunk](./screenshots/gothic-cyberpunk.png)  
-![cyberpunk2](./screenshots/gothic-cyberpunk2.png)
+![cyberpunk](./screenshots/demo1.png)  
 ---
